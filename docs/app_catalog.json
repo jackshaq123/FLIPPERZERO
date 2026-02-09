@@ -1,0 +1,44 @@
+{
+  "files": [
+    {
+      "path": "apps/esp32/arduino/sensor_logger/sensor_logger.ino",
+      "group": "esp32",
+      "bytes": 248
+    },
+    {
+      "path": "apps/esp32/arduino/serial_cli_bridge/serial_cli_bridge.ino",
+      "group": "esp32",
+      "bytes": 948
+    },
+    {
+      "path": "apps/esp32/micropython/main.py",
+      "group": "esp32",
+      "bytes": 253
+    },
+    {
+      "path": "apps/esp32/platformio/esp32_status_api/platformio.ini",
+      "group": "esp32",
+      "bytes": 98
+    },
+    {
+      "path": "apps/esp32/platformio/esp32_status_api/src/main.cpp",
+      "group": "esp32",
+      "bytes": 243
+    },
+    {
+      "path": "apps/flipper/notes/flipper_workflows.md",
+      "group": "flipper",
+      "bytes": 318
+    },
+    {
+      "path": "apps/flipper/toolbox/app_pack_index.md",
+      "group": "flipper",
+      "bytes": 690
+    },
+    {
+      "path": "apps/flipper/workflows/flipper_esp32_serial_bridge.md",
+      "group": "flipper",
+      "bytes": 399
+    }
+  ]
+}
